@@ -1,3 +1,0 @@
-- Bio
-	- ![me4.jpg](../assets/me4_1627327288773_0.jpg){:height 255, :width 170}
-	- My name is Avijeet Prasad. I am a post doc.
