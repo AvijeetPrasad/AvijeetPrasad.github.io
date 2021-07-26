@@ -1,3 +1,0 @@
-- Hello world!
-- My name is Avijeet Prasad
-- This is my home page.
